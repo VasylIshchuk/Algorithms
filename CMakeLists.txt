@@ -11,4 +11,5 @@ add_executable(BST BST/main.cpp)
 add_executable(Hopcroft_Karp Hopcroft-Karp/main.cpp)
 add_executable(Red_Black_Tree Red_Black_Tree/main.cpp)
 add_executable(B_Tree B_Tree/main.cpp)
+add_executable(Graham Graham/main.cpp)
 
